@@ -1,5 +1,5 @@
 # XDU🏫 Teamwork📖🧑‍🎓
-### Hi there 👋  We are&emsp;*XDU_Teamwork*
+### Hi there 👋 &emsp; We are&ensp;*XDU_Teamwork*
 <img src="https://avatars.githubusercontent.com/u/150602874?s=200&v=4" width="128px" height="128px">
 
 _✨Just a regular organization for academic purpose.✨_
